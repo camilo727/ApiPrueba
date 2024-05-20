@@ -1,0 +1,15 @@
+C:\Users\camil\source\repos\APiPrueba\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\Users\camil\source\repos\APiPrueba\Logica\bin\Debug\net6.0\Logica.dll
+C:\Users\camil\source\repos\APiPrueba\Logica\bin\Debug\net6.0\Logica.pdb
+C:\Users\camil\source\repos\APiPrueba\Logica\bin\Debug\net6.0\Datos.dll
+C:\Users\camil\source\repos\APiPrueba\Logica\bin\Debug\net6.0\Datos.pdb
+C:\Users\camil\source\repos\APiPrueba\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\APiPrueba\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\APiPrueba\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\APiPrueba\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\Users\camil\source\repos\APiPrueba\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\APiPrueba\Logica\obj\Debug\net6.0\Logica.csproj.Up2Date
+C:\Users\camil\source\repos\APiPrueba\Logica\obj\Debug\net6.0\Logica.dll
+C:\Users\camil\source\repos\APiPrueba\Logica\obj\Debug\net6.0\refint\Logica.dll
+C:\Users\camil\source\repos\APiPrueba\Logica\obj\Debug\net6.0\Logica.pdb
+C:\Users\camil\source\repos\APiPrueba\Logica\obj\Debug\net6.0\ref\Logica.dll

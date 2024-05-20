@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camil\\source\\repos\\APiPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66792388-04F0-4C9D-9497-1E0BD8BE5C48}|Logica\\Logica.csproj|c:\\users\\camil\\source\\repos\\apiprueba\\logica\\classe\\logicaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66792388-04F0-4C9D-9497-1E0BD8BE5C48}|Logica\\Logica.csproj|solutionrelative:logica\\classe\\logicaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66792388-04F0-4C9D-9497-1E0BD8BE5C48}|Logica\\Logica.csproj|c:\\users\\camil\\source\\repos\\apiprueba\\logica\\classe\\logicacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66792388-04F0-4C9D-9497-1E0BD8BE5C48}|Logica\\Logica.csproj|solutionrelative:logica\\classe\\logicacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66792388-04F0-4C9D-9497-1E0BD8BE5C48}|Logica\\Logica.csproj|c:\\users\\camil\\source\\repos\\apiprueba\\logica\\interface\\iventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66792388-04F0-4C9D-9497-1E0BD8BE5C48}|Logica\\Logica.csproj|solutionrelative:logica\\interface\\iventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66792388-04F0-4C9D-9497-1E0BD8BE5C48}|Logica\\Logica.csproj|c:\\users\\camil\\source\\repos\\apiprueba\\logica\\classe\\logicaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66792388-04F0-4C9D-9497-1E0BD8BE5C48}|Logica\\Logica.csproj|solutionrelative:logica\\classe\\logicaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0E0FF-727D-442E-8FA3-F327C1BD4647}|APiPrueba\\APiPrueba.csproj|c:\\users\\camil\\source\\repos\\apiprueba\\apiprueba\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC0E0FF-727D-442E-8FA3-F327C1BD4647}|APiPrueba\\APiPrueba.csproj|solutionrelative:apiprueba\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA63E85-9ECF-4BBD-B408-F5A1985C0A73}|Datos\\Datos.csproj|c:\\users\\camil\\source\\repos\\apiprueba\\datos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA63E85-9ECF-4BBD-B408-F5A1985C0A73}|Datos\\Datos.csproj|solutionrelative:datos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA63E85-9ECF-4BBD-B408-F5A1985C0A73}|Datos\\Datos.csproj|c:\\users\\camil\\source\\repos\\apiprueba\\datos\\ventum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA63E85-9ECF-4BBD-B408-F5A1985C0A73}|Datos\\Datos.csproj|solutionrelative:datos\\ventum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66792388-04F0-4C9D-9497-1E0BD8BE5C48}|Logica\\Logica.csproj|c:\\users\\camil\\source\\repos\\apiprueba\\logica\\interface\\icategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66792388-04F0-4C9D-9497-1E0BD8BE5C48}|Logica\\Logica.csproj|solutionrelative:logica\\interface\\icategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0E0FF-727D-442E-8FA3-F327C1BD4647}|APiPrueba\\APiPrueba.csproj|c:\\users\\camil\\source\\repos\\apiprueba\\apiprueba\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC0E0FF-727D-442E-8FA3-F327C1BD4647}|APiPrueba\\APiPrueba.csproj|solutionrelative:apiprueba\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ventum.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Datos\\Ventum.cs",
+              "RelativeDocumentMoniker": "Datos\\Ventum.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Datos\\Ventum.cs",
+              "RelativeToolTip": "Datos\\Ventum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:28:02.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Datos\\Producto.cs",
+              "RelativeDocumentMoniker": "Datos\\Producto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Datos\\Producto.cs",
+              "RelativeToolTip": "Datos\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:27:24.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogicaProducto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Logica\\Classe\\LogicaProducto.cs",
+              "RelativeDocumentMoniker": "Logica\\Classe\\LogicaProducto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Logica\\Classe\\LogicaProducto.cs",
+              "RelativeToolTip": "Logica\\Classe\\LogicaProducto.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAzwBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:45:42.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\APiPrueba\\APiPrueba\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "APiPrueba\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\APiPrueba\\APiPrueba\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "APiPrueba\\Controllers\\VentasController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:41:31.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogicaVentas.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Logica\\Classe\\LogicaVentas.cs",
+              "RelativeDocumentMoniker": "Logica\\Classe\\LogicaVentas.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Logica\\Classe\\LogicaVentas.cs",
+              "RelativeToolTip": "Logica\\Classe\\LogicaVentas.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:34:31.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVentas.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Logica\\Interface\\IVentas.cs",
+              "RelativeDocumentMoniker": "Logica\\Interface\\IVentas.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Logica\\Interface\\IVentas.cs",
+              "RelativeToolTip": "Logica\\Interface\\IVentas.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:33:35.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "5304626d-825f-405a-9225-88c0e487c710",
+        "Display": 0,
+        "X": 344,
+        "Y": 444,
+        "Width": 1265,
+        "Height": 593,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\APiPrueba\\APiPrueba\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "APiPrueba\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\APiPrueba\\APiPrueba\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "APiPrueba\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:54:33.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoria.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Logica\\Interface\\ICategoria.cs",
+              "RelativeDocumentMoniker": "Logica\\Interface\\ICategoria.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Logica\\Interface\\ICategoria.cs",
+              "RelativeToolTip": "Logica\\Interface\\ICategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:53:52.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicaCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Logica\\Classe\\LogicaCategoria.cs",
+              "RelativeDocumentMoniker": "Logica\\Classe\\LogicaCategoria.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\APiPrueba\\Logica\\Classe\\LogicaCategoria.cs",
+              "RelativeToolTip": "Logica\\Classe\\LogicaCategoria.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvzMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:53:39.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

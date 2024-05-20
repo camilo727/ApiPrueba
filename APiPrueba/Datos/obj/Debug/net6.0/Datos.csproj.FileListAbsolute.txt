@@ -1,0 +1,14 @@
+C:\Users\camil\source\repos\APiPrueba\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\camil\source\repos\APiPrueba\Datos\bin\Debug\net6.0\Datos.runtimeconfig.json
+C:\Users\camil\source\repos\APiPrueba\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\camil\source\repos\APiPrueba\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\camil\source\repos\APiPrueba\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\APiPrueba\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\APiPrueba\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\APiPrueba\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\camil\source\repos\APiPrueba\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\APiPrueba\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\camil\source\repos\APiPrueba\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\camil\source\repos\APiPrueba\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\camil\source\repos\APiPrueba\Datos\obj\Debug\net6.0\Datos.genruntimeconfig.cache
+C:\Users\camil\source\repos\APiPrueba\Datos\obj\Debug\net6.0\ref\Datos.dll
